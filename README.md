@@ -1,3 +1,3 @@
 # Principiante en Programacion - Oracle Next Education
 
-Completed code of the basic course about HTML5 & CSS. 
+Complete code of the basic course about HTML5 & CSS. 
